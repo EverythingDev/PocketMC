@@ -1,1 +1,19 @@
-Add plugin folder
+---
+name: PocketMC-plugins
+version: 1.0.0-(First release)
+main: AliJr\PocketMC_plugins\Main
+api: 3.0.0
+
+commands:
+
+  auth:
+    description: This command for Server security
+
+  pocketmcpanel:
+    description: This is a panel for Owners of this server!
+    permission: pocketmcpanel.use
+    permission-message: §7§l[ §bPocket&fMC &7] §cYou dont have permission to open auth panel!
+
+  changepassword:
+    description: Change your Password with your Email , Phone number , Old Password
+...
