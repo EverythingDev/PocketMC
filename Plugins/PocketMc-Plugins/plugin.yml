@@ -1,6 +1,6 @@
 ---
 name: PocketMC-plugins
-version: 1.1.0
+version: 1.2.0
 main: AliJr\PocketMC_plugins\Main
 api: 3.0.0
 
@@ -16,4 +16,21 @@ commands:
 
   changepassword:
     description: Change your Password with your Email , Phone number , Old Password
-...
+
+  certificate:
+    description: Create Birth Certificate For You!
+
+permissions:
+  loanform.use:
+    description: Lock Or Unlock Loan Form /atm
+    default: op
+    permission-message: §c§l[ §4ATM §c] §4> §cYou have earned one loan!
+  loan1.use:
+    description: Player can be recvive loan by Server
+    default: op
+  loan2.use:
+    description: Player can be recvive loan by Server
+    default: op
+  loan3.use:
+    description: Player can be recvive loan by Server
+    default: op
