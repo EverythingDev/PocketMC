@@ -1,0 +1,14 @@
+#POCKETMC - Powerful Software For PocketMine Api 3
+#-=-=-=-=-=-=--=-=-=-=-=-=--=-=-=-=-=-=--=-=-=-=-=-=--=-=-=-=-=-=--=-=-=-=-=-=--=-=-=-=-=-=--=-=-=-=-=-=--=-=-=-=-=-=--=-=-=-=-=-=--=-=-=-=-=-=-
+#LOGIN Text Menu
+logintitle: "§cLogin"
+loginlabel: "§fHi, Please login to Playing to my server!"
+loginmsg: "§7Your Password"
+
+#-=-=-=-=-=-=--=-=-=-=-=-=--=-=-=-=-=-=--=-=-=-=-=-=--=-=-=-=-=-=--=-=-=-=-=-=--=-=-=-=-=-=--=-=-=-=-=-=--=-=-=-=-=-=--=-=-=-=-=-=--=-=-=-=-=-=-
+#REGISTER Text Menu
+registertitle: "§cRegister"
+registerlabel: "§fWelcome to server, please register to countine playing"
+registermsg: "§7Your Password"
+numbermsg: "§7Your Phone Number"
+emailmsg: "§7Your Email"
